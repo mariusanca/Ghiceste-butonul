@@ -16,8 +16,8 @@
 }
 
 #butonRestart {
-    margin: auto;
-    margin-left: 45px;
     margin-top: 10px;
-    width: 30%;
+    margin-left: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
