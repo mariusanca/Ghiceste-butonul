@@ -1,0 +1,15 @@
+.body {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.card {
+    align-self: center;
+    text-align: center;
+    align-items: center;
+}
+
+#butonRestart {
+    align-self: center;
+    margin-left: 106px;
+}
